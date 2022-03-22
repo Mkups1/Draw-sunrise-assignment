@@ -17,6 +17,6 @@ ctx.fill()
 ctx.fillStyle = "green"
 ctx.fillRect(0, 300, 400, 100)
 
-
-
+ctx.drawImage(clothCloudImg, 140, 100)
+ctx.drawImage(clothCloudImg, 180, 80)
 

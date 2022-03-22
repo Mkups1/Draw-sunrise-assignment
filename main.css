@@ -5,3 +5,6 @@ body{
 canvas{
     border:1px solid grey;
 }
+img{
+    display:none;
+}
